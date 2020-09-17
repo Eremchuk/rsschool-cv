@@ -9,6 +9,6 @@
 # Education
 ## 2011-2015 Ural Federal University. Metallurgy of heavy non-ferrous metals.
 # Languages
-* Russian - native.
-* English - A2 ELEMENTARY.
+* **Russian - native.
+* **English - A2 ELEMENTARY.
  
