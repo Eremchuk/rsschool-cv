@@ -11,4 +11,3 @@
 # Languages
 ## * Russian - native.
 ## * English - A2 ELEMENTARY.
- 
