@@ -1,3 +1,3 @@
 # rsschool-cv
 https://Eremchuk.github.io/rsschool-cv/cv
-https://Eremchuk.github.io/rsschool-cv/
+<p>https://Eremchuk.github.io/rsschool-cv/index.html</p>
