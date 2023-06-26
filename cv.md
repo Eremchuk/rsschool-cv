@@ -1,7 +1,7 @@
 # Name
 ## Igor Eremchuk
 # Contacts
-## Number: 89128763009; email: yeremchuk@mail.ru
+## Number: 89128763009; email: yeremchuk@mail.ru.
 # About me
 ## I am 30 years old. Interesting *IT*. I want to be frontend developer.
 # Skills
