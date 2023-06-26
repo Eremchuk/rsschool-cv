@@ -1,6 +1,6 @@
 # Name
 ## Igor Eremchuk
-# Conacts
+# Contacts
 ## Number: 89128763009; email: yeremchuk@mail.ru
 # About me
 ## Interesting *IT*. I want to be frontend developer or tester.
