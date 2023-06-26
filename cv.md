@@ -7,7 +7,7 @@
 # Skills
 ## Small experienсe on JS, HTML, CSS. Worked for 6 months as a functional tester at Yandex
 # Education
-## 2011-2015 Ural Federal University. Metallurgy of heavy non-ferrous metals. 
+## 2011-2015 Ural Federal University. Metallurgy of heavy non-ferrous metals.  Some free courses of programming/
 # Languages
 ## * Russian - native.
 ## * English - A2 ELEMENTARY.
