@@ -1,2 +1,2 @@
-https://Eremchuk.github.io/rsschool-cv-html/cv
+https://Eremchuk.github.io/rsschool-cv/cv
 # rsschool-cv
